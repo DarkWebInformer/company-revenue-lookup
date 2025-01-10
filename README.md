@@ -2,6 +2,10 @@
 
 A simple Python tool to retrieve the current revenue of a company using its stock ticker, powered by [Yahoo Finance](https://finance.yahoo.com).
 
+## Screenshot
+
+![Company Revenue Lookup](https://github.com/DarkWebInformer/company-revenue-lookup/blob/main/revenue_lookup.png)
+
 ## Features
 
 - Enter a stock ticker to retrieve the company's most recent revenue in USD.
