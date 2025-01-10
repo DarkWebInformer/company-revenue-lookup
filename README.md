@@ -17,3 +17,8 @@ A simple Python tool to retrieve the current revenue of a company using its stoc
 1. Clone the repository
 2. pip install yfinance
 3. Run: python revenue_lookup.py
+
+## About
+
+- Website: https://darkwebinformer.com
+- Follow me on X: https://x.com/DarkWebInformer
